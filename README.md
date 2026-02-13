@@ -1,7 +1,7 @@
 # Corstone-1000 FVP
 
 ---
-### Resource
+### Arm Developer Resource
 
 * Corstone-1000 Armv9-A Edge-AI Ecosystem FVP
     * https://developer.arm.com/documentation/102360/latest/
